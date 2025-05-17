@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/madmatcher/static/css/main.9b970417.css",
+    "main.js": "/madmatcher/static/js/main.707dcba7.js",
+    "static/js/918.d7b18d0a.chunk.js": "/madmatcher/static/js/918.d7b18d0a.chunk.js",
+    "static/js/966.ad6a0ad8.chunk.js": "/madmatcher/static/js/966.ad6a0ad8.chunk.js",
+    "static/js/379.6b6b2d26.chunk.js": "/madmatcher/static/js/379.6b6b2d26.chunk.js",
+    "static/js/938.447832a1.chunk.js": "/madmatcher/static/js/938.447832a1.chunk.js",
+    "static/js/62.e2849b22.chunk.js": "/madmatcher/static/js/62.e2849b22.chunk.js",
+    "static/js/615.9999bcab.chunk.js": "/madmatcher/static/js/615.9999bcab.chunk.js",
+    "static/js/807.a5c74bcb.chunk.js": "/madmatcher/static/js/807.a5c74bcb.chunk.js",
+    "static/js/627.8e12c113.chunk.js": "/madmatcher/static/js/627.8e12c113.chunk.js",
+    "static/js/900.511662ad.chunk.js": "/madmatcher/static/js/900.511662ad.chunk.js",
+    "static/js/147.e1ec5db5.chunk.js": "/madmatcher/static/js/147.e1ec5db5.chunk.js",
+    "static/media/magellan_tech_about_image.png": "/madmatcher/static/media/magellan_tech_about_image.276571ba55977c8e0290.png",
+    "index.html": "/madmatcher/index.html",
+    "main.9b970417.css.map": "/madmatcher/static/css/main.9b970417.css.map",
+    "main.707dcba7.js.map": "/madmatcher/static/js/main.707dcba7.js.map",
+    "918.d7b18d0a.chunk.js.map": "/madmatcher/static/js/918.d7b18d0a.chunk.js.map",
+    "966.ad6a0ad8.chunk.js.map": "/madmatcher/static/js/966.ad6a0ad8.chunk.js.map",
+    "379.6b6b2d26.chunk.js.map": "/madmatcher/static/js/379.6b6b2d26.chunk.js.map",
+    "938.447832a1.chunk.js.map": "/madmatcher/static/js/938.447832a1.chunk.js.map",
+    "62.e2849b22.chunk.js.map": "/madmatcher/static/js/62.e2849b22.chunk.js.map",
+    "615.9999bcab.chunk.js.map": "/madmatcher/static/js/615.9999bcab.chunk.js.map",
+    "807.a5c74bcb.chunk.js.map": "/madmatcher/static/js/807.a5c74bcb.chunk.js.map",
+    "627.8e12c113.chunk.js.map": "/madmatcher/static/js/627.8e12c113.chunk.js.map",
+    "900.511662ad.chunk.js.map": "/madmatcher/static/js/900.511662ad.chunk.js.map",
+    "147.e1ec5db5.chunk.js.map": "/madmatcher/static/js/147.e1ec5db5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b970417.css",
+    "static/js/main.707dcba7.js"
+  ]
+}
