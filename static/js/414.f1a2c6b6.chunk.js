@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmadmatcher=self.webpackChunkmadmatcher||[]).push([[414],{2414:(e,s,a)=>{a.r(s),a.d(s,{default:()=>t});a(5043);var c=a(2181),i=a(579);const t=()=>(0,i.jsx)(c.A,{title:"Team",description:"Meet our team.",children:(0,i.jsxs)("article",{className:"post",id:"team",children:[(0,i.jsx)("header",{children:(0,i.jsx)("div",{className:"title",children:(0,i.jsx)("h2",{children:"Team"})})}),(0,i.jsx)("section",{children:(0,i.jsx)("p",{children:"This is the Team page."})})]})})}}]);
+//# sourceMappingURL=414.f1a2c6b6.chunk.js.map

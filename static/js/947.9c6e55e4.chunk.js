@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmadmatcher=self.webpackChunkmadmatcher||[]).push([[947],{6947:(s,e,i)=>{i.r(e),i.d(e,{default:()=>l});i(5043);var n=i(2181),c=i(579);const l=()=>(0,c.jsx)(n.A,{title:"Consulting",description:"Consulting services.",children:(0,c.jsxs)("article",{className:"post",id:"consulting",children:[(0,c.jsx)("header",{children:(0,c.jsx)("div",{className:"title",children:(0,c.jsx)("h2",{children:"Consulting"})})}),(0,c.jsx)("section",{children:(0,c.jsx)("p",{children:"This is the Consulting page."})})]})})}}]);
+//# sourceMappingURL=947.9c6e55e4.chunk.js.map
