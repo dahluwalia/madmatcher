@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkmadmatcher=self.webpackChunkmadmatcher||[]).push([[971],{5971:(e,s,c)=>{c.r(s),c.d(s,{default:()=>n});c(5043);var a=c(2181),i=c(579);const n=()=>(0,i.jsx)(a.A,{description:"Magellan's Research Website",children:(0,i.jsxs)("article",{className:"post",id:"index",children:[(0,i.jsx)("header",{children:(0,i.jsx)("div",{className:"title",children:(0,i.jsx)("h2",{children:"Fast and Accurate Entity Matching with AI"})})}),(0,i.jsx)("section",{children:(0,i.jsx)("p",{children:"One-Liner"})})]})})}}]);
-//# sourceMappingURL=971.7b59999f.chunk.js.map
