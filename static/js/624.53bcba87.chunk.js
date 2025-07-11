@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkmadmatcher=self.webpackChunkmadmatcher||[]).push([[624],{9624:(e,s,c)=>{c.r(s),c.d(s,{default:()=>t});c(5043);var r=c(2181),d=c(579);const t=()=>(0,d.jsx)(r.A,{title:"Product",description:"Learn about our products",children:(0,d.jsxs)("article",{className:"post",id:"product",children:[(0,d.jsx)("header",{children:(0,d.jsx)("div",{className:"title",children:(0,d.jsx)("h2",{children:"Our Products"})})}),(0,d.jsx)("section",{children:(0,d.jsx)("h3",{children:"Coming soon..."})})]})})}}]);
-//# sourceMappingURL=624.53bcba87.chunk.js.map
