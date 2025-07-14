@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.04080f40.css",
-    "main.js": "/static/js/main.0d4981ee.js",
+    "main.js": "/static/js/main.3f3fc6c9.js",
     "static/js/488.c4f92be9.chunk.js": "/static/js/488.c4f92be9.chunk.js",
+    "static/media/mm-hero.png": "/static/media/mm-hero.d769828c4c34a333dc70.png",
     "static/media/derek-headshot.jpg": "/static/media/derek-headshot.7ccd152561a8ed38c9c1.jpg",
     "static/media/dev-ahluwalia-headshot.jpg": "/static/media/dev-ahluwalia-headshot.2466417f609b82cc4c56.jpg",
     "static/media/logo.png": "/static/media/logo.5c9e11eaf6d117c7756b.png",
-    "static/media/network.png": "/static/media/network.8facca4df11d3dfe555e.png",
     "static/media/em_example_image.png": "/static/media/em_example_image.276571ba55977c8e0290.png",
     "static/media/anhai-headshot.png": "/static/media/anhai-headshot.d666585b26c8cc1f80b5.png",
     "index.html": "/index.html",
     "main.04080f40.css.map": "/static/css/main.04080f40.css.map",
-    "main.0d4981ee.js.map": "/static/js/main.0d4981ee.js.map",
+    "main.3f3fc6c9.js.map": "/static/js/main.3f3fc6c9.js.map",
     "488.c4f92be9.chunk.js.map": "/static/js/488.c4f92be9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.04080f40.css",
-    "static/js/main.0d4981ee.js"
+    "static/js/main.3f3fc6c9.js"
   ]
 }
